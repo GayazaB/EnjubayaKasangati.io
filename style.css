@@ -38,7 +38,7 @@ margin-top: 0.1rem;
 
 .header-image-slider {
     width: calc(100% - 70px);
-    height: 600px;
+    height: 650px;
 }
 
 .header-image-slider img {
@@ -370,12 +370,12 @@ color: #fff;
   }
   
   .logo-container img {
-    width: 500px;
-    height: 500px;
+    width: 100%;
+    height: 100%;
   }
   
   .header-image-slider {
-    height: 100%;
+    height: 650px;
   }
   
   /* Navigation Styles */
